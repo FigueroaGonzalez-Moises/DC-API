@@ -1,0 +1,8 @@
+query getProductShipping($product_id: Float!) {
+    getProductShipping(product_id: $product_id) {
+        shipping_id
+        country
+        price
+        stackable
+    }
+}
