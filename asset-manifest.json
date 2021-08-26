@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DC-API/static/css/main.6efaa9c2.chunk.css",
-    "main.js": "/DC-API/static/js/main.c6f338f9.chunk.js",
-    "main.js.map": "/DC-API/static/js/main.c6f338f9.chunk.js.map",
+    "main.js": "/DC-API/static/js/main.99879274.chunk.js",
+    "main.js.map": "/DC-API/static/js/main.99879274.chunk.js.map",
     "runtime-main.js": "/DC-API/static/js/runtime-main.6df6e2c4.js",
     "runtime-main.js.map": "/DC-API/static/js/runtime-main.6df6e2c4.js.map",
     "static/js/2.21591b18.chunk.js": "/DC-API/static/js/2.21591b18.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6df6e2c4.js",
     "static/js/2.21591b18.chunk.js",
     "static/css/main.6efaa9c2.chunk.css",
-    "static/js/main.c6f338f9.chunk.js"
+    "static/js/main.99879274.chunk.js"
   ]
 }
