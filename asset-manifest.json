@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DC-API/static/css/main.8f8d6862.chunk.css",
-    "main.js": "/DC-API/static/js/main.6c7cf213.chunk.js",
-    "main.js.map": "/DC-API/static/js/main.6c7cf213.chunk.js.map",
-    "runtime-main.js": "/DC-API/static/js/runtime-main.a62b1ea3.js",
-    "runtime-main.js.map": "/DC-API/static/js/runtime-main.a62b1ea3.js.map",
-    "static/js/2.4422eebb.chunk.js": "/DC-API/static/js/2.4422eebb.chunk.js",
-    "static/js/2.4422eebb.chunk.js.map": "/DC-API/static/js/2.4422eebb.chunk.js.map",
+    "main.css": "/DC-API/static/css/main.6efaa9c2.chunk.css",
+    "main.js": "/DC-API/static/js/main.c6f338f9.chunk.js",
+    "main.js.map": "/DC-API/static/js/main.c6f338f9.chunk.js.map",
+    "runtime-main.js": "/DC-API/static/js/runtime-main.6df6e2c4.js",
+    "runtime-main.js.map": "/DC-API/static/js/runtime-main.6df6e2c4.js.map",
+    "static/js/2.21591b18.chunk.js": "/DC-API/static/js/2.21591b18.chunk.js",
+    "static/js/2.21591b18.chunk.js.map": "/DC-API/static/js/2.21591b18.chunk.js.map",
     "index.html": "/DC-API/index.html",
-    "static/css/main.8f8d6862.chunk.css.map": "/DC-API/static/css/main.8f8d6862.chunk.css.map",
-    "static/js/2.4422eebb.chunk.js.LICENSE.txt": "/DC-API/static/js/2.4422eebb.chunk.js.LICENSE.txt"
+    "static/css/main.6efaa9c2.chunk.css.map": "/DC-API/static/css/main.6efaa9c2.chunk.css.map",
+    "static/js/2.21591b18.chunk.js.LICENSE.txt": "/DC-API/static/js/2.21591b18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a62b1ea3.js",
-    "static/js/2.4422eebb.chunk.js",
-    "static/css/main.8f8d6862.chunk.css",
-    "static/js/main.6c7cf213.chunk.js"
+    "static/js/runtime-main.6df6e2c4.js",
+    "static/js/2.21591b18.chunk.js",
+    "static/css/main.6efaa9c2.chunk.css",
+    "static/js/main.c6f338f9.chunk.js"
   ]
 }
